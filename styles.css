@@ -1,0 +1,21 @@
+
+<style>
+body {
+  background-color: cornflowerblue;
+}
+h1 {
+    color: red;
+    font-size: 74px;
+    background-color: black;
+}
+h2 {
+    color: black;
+    background-color: orangered;
+}
+
+
+p {
+    font-size: 18px;
+    background-color: yellow;
+}
+</style>
