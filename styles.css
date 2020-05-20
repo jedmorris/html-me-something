@@ -1,7 +1,6 @@
-
 <style>
 body {
-  background-color: cornflowerblue;
+    background-color: greenyellow;
 }
 h1 {
     color: red;
@@ -15,7 +14,7 @@ h2 {
 
 
 p {
-    font-size: 18px;
+    
     background-color: yellow;
 }
 </style>
