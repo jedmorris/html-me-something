@@ -1,20 +1,17 @@
-<style>
 body {
-    background-color: greenyellow;
-}
-h1 {
-    color: red;
-    font-size: 74px;
-    background-color: black;
-}
-h2 {
-    color: black;
-    background-color: orangered;
-}
+    background-color: seagreen;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
 
-
-p {
-    
-    background-color: yellow;
-}
-</style>
+  h3 {
+    text-decoration-color: yellow;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
