@@ -1,22 +1,26 @@
 body {
     background-color: seagreen;
 
+
+
     margin: 100px 300px;
 
     padding: 20px 50px;
   }
   
   h1 {
-    color: white;
+    color: black;
     text-size-adjust: 72px;
     text-align: center;
   }
 
   h3 {
+      color: black;
     text-decoration-color: yellow;
   }
   
   p {
+      color: black;
     font-family: verdana;
     font-size: 20px;
   }
